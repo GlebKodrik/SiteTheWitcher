@@ -279,6 +279,7 @@ body {
     margin-top: 7px;
   }
   .header {
+    z-index: 999;
     display: none;
     flex-direction: column;
     position: absolute;
